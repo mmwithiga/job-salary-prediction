@@ -49,12 +49,11 @@ The dataset used in this project can be found on Kaggle: [Predicting Job Titles 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/job-salary-prediction.git
-2.Install the required libraries:
-
-  ```bash
+2. Install the required libraries:
+   ```bash
    pip install -r requirements.txt
-```
-3.Run the Jupyter notebooks or Python scripts to explore the data, train models, and visualize results.
+   ```
+3. Run the Jupyter notebooks or Python scripts to explore the data, train models, and visualize results.
 
 ## Future Work
 Incorporate more recent data for improved predictions.
